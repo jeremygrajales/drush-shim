@@ -74,7 +74,7 @@ if ($DEBUG) {
 
 chdir($drupalRoot);
 
-require_once $drupalRoot . '/autoload.php';
+//require_once $drupalRoot . '/autoload.php';
 
 $methods = [
   'local' => [
